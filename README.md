@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ### Proyectos de Python
-Este repositorio alberga una variedad de proyectos de Python, incluyendo aplicaciones, análisis de datos y scripts. Explora mi trabajo en el mundo de la programación Python.
+Este repositorio alberga una variedad de proyectos de Python, incluyendo aplicaciones, análisis de datos y notebooks. 
 
 
 ## Perfil Profesional 👨‍💼
