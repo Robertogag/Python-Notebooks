@@ -1,5 +1,9 @@
 # ¡Hola! 👋
 
+### Proyectos de Python
+Este repositorio alberga una variedad de proyectos de Python, incluyendo aplicaciones, análisis de datos y scripts. Explora mi trabajo en el mundo de la programación Python.
+
+
 ## Perfil Profesional 👨‍💼
 Soy Juan Roberto García Gómez, estudiante del bootcamp de Keepcoding en "Big Data, Inteligencia Artificial & Machine Learning, Edición XII". Estoy apasionado por el mundo de los datos y la inteligencia artificial, y estoy comprometido con mi desarrollo profesional en esta emocionante área.
 
